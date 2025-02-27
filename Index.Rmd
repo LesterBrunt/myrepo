@@ -10,8 +10,6 @@ output:
  
 Something
 
-![](C:\Rstudio\myrepo\Gamelan_Gong_Kebyar.jpg)
-
 ### Introduction
 
 Here will be some kind of introduction
