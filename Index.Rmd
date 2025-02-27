@@ -1,5 +1,6 @@
 ---
-title: "Dashboard"
+title: "Balinese Gamelan"
+Author: "Lester Brunt"
 output: 
   flexdashboard::flex_dashboard:
     storyboard: true
@@ -12,7 +13,7 @@ Something
 
 ### Introduction
 
-Here will be some kind of introduction
+The two files contain Balinese Gamelan in a contemporary style of Gong Kebyar. I made it in Ableton Live with sampled gamelan instruments (https://baligamelansamples.bandcamp.com/album/gong-kebyar-balinese-gamelan-sample-pack) and I recorded myself playing the suling (bamboo flute). It is a work in progress and has no title as of yet. The piece's full length is currently 13 minutes. The uploaded files contain the middle two sections of the piece.
 
 ### Visualization 
 
@@ -20,4 +21,4 @@ Here will be some kind of visualization
 
 ### Conclusion
 
-Here will be some kind of conclusion
+Here will be some kind of conclusion and some other shit
