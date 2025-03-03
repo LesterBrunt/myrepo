@@ -355,6 +355,10 @@ display: none;
 
 <div id="computational-musicology" class="section level3">
 <h3>Computational Musicology</h3>
+<p>Unfortunately my tracks were not incorporated into the corpus, so I
+have no .json files as of yet. Hopefully I can still manage to get the
+.json files of my tracks so I can put them here and anaylize them
+alongside my own MIDI.</p>
 <pre class="r"><code>&quot;data/features/ahram-j-1.json&quot; |&gt;                           # Change the track
   compmus_chroma(norm = &quot;euclidean&quot;) |&gt;                 # Change the norm
   ggplot(aes(x = time, y = pc, fill = value)) + 
